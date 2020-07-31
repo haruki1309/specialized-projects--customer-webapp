@@ -21,6 +21,17 @@ copy .env.example .env
 ```bash
 php artisan key:generate
 ```
+I created database migrations and seeders
+1. Config your mysql database to .env file. Remember charset of DB is utf8_unicode_ci.
+2. After that, rum below commands to create tables and fake data 
+```bash
+php artisan migrate
+```
+
+```bash
+composer artisan db:seed
+```
+
 To run this web, open your browser and type
 ```bash
 localhost/evoucher/public/
