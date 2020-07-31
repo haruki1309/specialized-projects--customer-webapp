@@ -23,7 +23,7 @@ php artisan key:generate
 ```
 To run this web, open your browser and type
 ```bash
-localhost/personalblog/public/
+localhost/evoucher/public/
 ```
 
 ## Built with
