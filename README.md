@@ -47,7 +47,7 @@ localhost/evoucher/public/
 - [Boostrap 4](https://getbootstrap.com/) - An open source for front-end web application development.
 - [jQuery](https://jquery.com/) - A feature-rich JavaScript library.
 
-### Dependencies
+## Dependencies
 
 - [SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/) - A free Bootstrap 4 admin theme built with HTML/CSS and a modern development workflow environment ready to use to build your next dashboard or web application.
 
